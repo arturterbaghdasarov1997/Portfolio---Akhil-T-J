@@ -53,7 +53,7 @@
                     <label for="menu">
                         <span class="hamburger-menu-icon">&#9776;</span>
                     </label>
-                    <div class="sidebar-nav">
+                    <div id="site-navigation" class="sidebar-nav">
                         <?php
                             wp_nav_menu(
                                 array(
