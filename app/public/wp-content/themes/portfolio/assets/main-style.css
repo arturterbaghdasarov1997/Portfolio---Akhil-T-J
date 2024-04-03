@@ -675,7 +675,6 @@ body {
     animation: fadeIn 1s ease forwards;
 }
 
-/* Stagger the animation delay for social icons */
 .hero-socials a:nth-child(odd) {
     animation-delay: 0.2s;
 }
